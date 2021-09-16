@@ -1,2 +1,2 @@
-# qqt_jira
+# qqt-jira
 react hook ts
